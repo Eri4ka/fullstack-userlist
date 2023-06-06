@@ -1,0 +1,10 @@
+.boardLayout {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-white-00);
+  padding: 1.5rem;
+  border-radius: 12px;
+  max-width: 600px;
+  width: 100%;
+  row-gap: 0.875rem;
+}
